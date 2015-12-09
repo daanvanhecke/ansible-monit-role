@@ -1,6 +1,16 @@
 ---
 galaxy_info:
   author: Daan Van Hecke
-  description: Role for Monit
-  company:
-  license: BSD
+  description: Ansible Monit Role
+  company: /
+  license: MIT
+  min_ansible_version: 1.9
+  platforms:
+  - name: EL
+    versions:
+    - all
+  galaxy_tags:
+    - monit
+    - role
+    - ansible
+dependencies: []
