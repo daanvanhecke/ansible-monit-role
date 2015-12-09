@@ -1,0 +1,6 @@
+---
+galaxy_info:
+  author: Daan Van Hecke
+  description: Role for Monit
+  company:
+  license: BSD
